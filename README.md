@@ -1,2 +1,5 @@
 # Rock_Paper_Scissors
-Rock_Paper_Scissors(Pedra, papel e tesoura)
+
+## Rock,Paper or Scissors in Python
+
+## Pedra Papel e Tesoura em Python
